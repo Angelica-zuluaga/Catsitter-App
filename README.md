@@ -102,7 +102,7 @@ Las tablas principales son:
 
 Las relaciones entre tablas se realizan mediante claves foráneas para asociar clientes, gatos y servicios.
 
-![Modelo entidad-relación](img/entidadRelacion.png)
+![Modelo entidad-relación](img/modeloEntidadRelacion.png)
 
 ---
 
